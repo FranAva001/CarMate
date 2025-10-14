@@ -1,0 +1,7 @@
+groq
+streamlit
+pandas
+sentence_transformers
+pinecone
+elasticsearch<9.0.0,>=8.0.0
+
